@@ -1,6 +1,5 @@
 class BaseURL {
-  // static String domain = 'http://192.168.1.4:3000/';
-  static String domain = 'http://192.168.6.115:3000/';
+  static String domain = 'http://172.168.100.251:3000/';
   static String baseURL = "${domain}api/";
 
   //Auth

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_app/constants.dart';
-import 'package:wisata_app/size_config.dart';
+import 'package:wisata_app/common/constants.dart';
+import 'package:wisata_app/common/size_config.dart';
 
 class DefaultButton extends StatelessWidget {
   const DefaultButton({

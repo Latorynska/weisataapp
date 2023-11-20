@@ -18,7 +18,7 @@ class DashboardScreen extends StatelessWidget {
     checkLoginStatus(context);
     var size = MediaQuery.of(context).size;
     return Scaffold(
-      bottomNavigationBar: const ButtonNavBar(selectedMenu: MenuState.home),
+      bottomNavigationBar: ButtonNavBar(selectedMenu: MenuState.home),
       body: Stack(
         children: <Widget>[
           Container(

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:wisata_app/constants.dart';
+import 'package:wisata_app/common/constants.dart';
 
 class CategoryCard extends StatelessWidget {
   final String imgSrc;
